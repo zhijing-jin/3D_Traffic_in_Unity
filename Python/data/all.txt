@@ -1,0 +1,2 @@
+MAP_SIZE,	CENTER,	INTERSETCION_half_len,	line_width,	
+800;0,0,0;100;2;

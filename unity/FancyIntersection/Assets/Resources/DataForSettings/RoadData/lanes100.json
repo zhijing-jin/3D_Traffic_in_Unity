@@ -1,0 +1,118 @@
+{"LineList":[
+    {
+        "position": {
+            "x": 55.0,
+            "y": 0.0,
+            "z": 0.5
+        },
+        "scale": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 1.0
+        },
+        "traffic_direction": 2
+    },
+    {
+        "position": {
+            "x": 55.0,
+            "y": 0.0,
+            "z": -0.5
+        },
+        "scale": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 1.0
+        },
+        "traffic_direction": 0
+    },
+    {
+        "position": {
+            "x": 0.5,
+            "y": 0.0,
+            "z": 55.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 90.0
+        },
+        "traffic_direction": 1
+    },
+    {
+        "position": {
+            "x": -0.5,
+            "y": 0.0,
+            "z": 55.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 90.0
+        },
+        "traffic_direction": 3
+    },
+    {
+        "position": {
+            "x": -55.0,
+            "y": 0.0,
+            "z": 0.5
+        },
+        "scale": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 1.0
+        },
+        "traffic_direction": 2
+    },
+    {
+        "position": {
+            "x": -55.0,
+            "y": 0.0,
+            "z": -0.5
+        },
+        "scale": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 1.0
+        },
+        "traffic_direction": 0
+    },
+    {
+        "position": {
+            "x": 0.5,
+            "y": 0.0,
+            "z": -55.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 90.0
+        },
+        "traffic_direction": 1
+    },
+    {
+        "position": {
+            "x": -0.5,
+            "y": 0.0,
+            "z": -55.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 90.0
+        },
+        "traffic_direction": 3
+    },
+    {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 20,
+            "y": 0,
+            "z": 20
+        }
+    }
+]}
