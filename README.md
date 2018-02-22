@@ -3,8 +3,14 @@ This is a 3D simulation of real-world traffic in the game engine, Unity.
 
 It uses Python to populate data on a local Flask server, updating real-time vehicle information like positions, directions, etc.
 
+
 ## Paper
 Here is the white paper [3D Traffic Simulation for Autonomous Vehicles in Unity and Python](./Documentation/Paper_3D_Traffic_Simulation.pdf).
+
+![Traffic](Documentation/img/traff.png "Traffic")
+
+## Flow of Work
+![WorkFlow](Documentation/img/WorkFlow.png "WorkFlow")
 
 ## File Structure
 * Documentation
