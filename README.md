@@ -9,8 +9,10 @@ Here is the white paper [3D Traffic Simulation for Autonomous Vehicles in Unity 
 
 ![Traffic](Documentation/img/traff.png "Traffic")
 
+<!---
 ## Flow of Work
 ![WorkFlow](Documentation/img/WorkFlow.png "WorkFlow")
+-->
 
 ## File Structure
 * Documentation
